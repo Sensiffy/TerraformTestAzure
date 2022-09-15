@@ -1,6 +1,6 @@
 backend "azurerm" {
-    resource_group_name   = "jonnychipz-infra"
-    storage_account_name  = "jonnychipztstate"
-    container_name        = "tstate"
-    key                   = "77Q4LUB5o9wRdbPYDt+0kGZP+L8Sj9E/FNXg7lZBQS5z3mLod5cyan4wA19CR1SmlqIRUFQfhuQrPVaGzNhjGw=="
-}
+    resource_group_name  = "RG-AKS-Sen-Train-39903"
+    storage_account_name = "saterraformsen"
+    container_name       = "tstate"
+    key                  = "RIfnXzdn/OP9ccfUg1gGKE2jye51VKmKbZVfG7cX5wqIL5L/9kJjjohDfJsForvwX17BVFXO06Oh+AStR7Tfaw=="
+  }
